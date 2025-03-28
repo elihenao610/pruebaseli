@@ -1,4 +1,7 @@
+{
+    
 "facturas": [
+    
 {
     "id": "0001",
     "tipo": "CC",
@@ -7,7 +10,7 @@
     "descripcion": "Credito Vehiculo",
     "total": 10000,
     
-  }
+  },
 
   {
     "id": "0002",
@@ -19,3 +22,6 @@
    
   }
 ]
+    
+}
+
