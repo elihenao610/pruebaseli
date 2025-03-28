@@ -5,9 +5,9 @@
     "cc": "1194418306",
     "name": "Eliana Henao",
     "descripcion": "Credito Vehiculo",
-    "total": 10000
+    "total": 10000,
     
-  },
+  }
 
   {
     "id": "0002",
@@ -15,7 +15,7 @@
     "cc": "1194418306",
     "name": "Eliana Henao",
     "descripcion": "Credito Vehiculo",
-    "total": 20000
+    "total": 20000,
    
   }
 ]
